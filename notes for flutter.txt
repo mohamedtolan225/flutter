@@ -3,5 +3,9 @@
 home:scaffold(
 في 3 حاجات appbar-floatingactionbutton-body)
 )
+in column
 ( y المحور) --> mainAxisAlignment
 ( x المحور) --> crossAxisAlignment
+in Row
+( x المحور) --> mainAxisAlignment
+( y المحور) --> crossAxisAlignment
