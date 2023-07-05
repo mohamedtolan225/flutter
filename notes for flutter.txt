@@ -1,0 +1,7 @@
+1-runApp()
+2-materialApp(
+home:scaffold(
+في 3 حاجات appbar-floatingactionbutton-body)
+)
+( y المحور) --> mainAxisAlignment
+( x المحور) --> crossAxisAlignment
